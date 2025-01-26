@@ -1,4 +1,4 @@
-package com.desafio.tokiomarine.api.transferencia.model;
+package com.desafio.tokiomarine.api.transferencia.models;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package com.desafio.tokiomarine.api.transferencia.dto;
+package com.desafio.tokiomarine.api.transferencia.dtos;
 
 import lombok.Data;
 

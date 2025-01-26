@@ -1,6 +1,6 @@
-package com.desafio.tokiomarine.api.transferencia.model;
+package com.desafio.tokiomarine.api.transferencia.models;
 
-import com.desafio.tokiomarine.api.transferencia.dto.TransferenciaDTO;
+import com.desafio.tokiomarine.api.transferencia.dtos.TransferenciaDTO;
 import lombok.Getter;
 import lombok.Setter;
 
